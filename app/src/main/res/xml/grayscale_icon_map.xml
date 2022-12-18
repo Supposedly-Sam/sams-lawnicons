@@ -17,6 +17,7 @@
     <icon drawable="@drawable/airbnb" package="com.airbnb.android" name="Airbnb" />
     <icon drawable="@drawable/airguard" package="de.seemoo.at_tracking_detection" name="AirGuard" />
     <icon drawable="@drawable/airguard" package="de.seemoo.at_tracking_detection.release" name="AirGuard" />
+    <icon drawable="@drawable/airmessage" package="me.tagavari.airmessage" name="AirMessage" />
     <icon drawable="@drawable/aldi_talk" package="de.eplus.mappecc.client.android.alditalk" name="Aldi Talk" />
     <icon drawable="@drawable/alert_swiss" package="ch.admin.babs.alertswiss" name="AlertSwiss" />
     <icon drawable="@drawable/aliexpress" package="com.alibaba.aliexpresshd" name="AliExpress" />
